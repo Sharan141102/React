@@ -1,0 +1,14 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is React by Sharan",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sharan",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
