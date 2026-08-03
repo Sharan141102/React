@@ -2,13 +2,21 @@
   "name": "react",
   "version": "1.0.0",
   "description": "This is React by Sharan",
-  "main": "script.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "Sharan",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.16.4"
-  }
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
