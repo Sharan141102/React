@@ -70,3 +70,9 @@ const Heading = () => {
 - export { Component } from file;
 
 - We use Load -> Render -> API call -> Re-render approach
+
+- Dont create the useState inside the if else condition, for loop and functions
+
+# 2 types of routing in web apps
+- Client Side Routing (CSR) -> React
+- Server Side Routing (SSR) -> Next JS
